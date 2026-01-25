@@ -1,6 +1,9 @@
 {
   "name": "Environnement MIAGE (Java)",
   "image": "mcr.microsoft.com/devcontainers/java:21",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
 
   // Personnalisation de VS Code
   "customizations": {
