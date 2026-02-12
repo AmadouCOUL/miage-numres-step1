@@ -24,8 +24,8 @@
 Vous avez 4 séances de TD/TP pour  produire un site web qui permettent de répondre à des questions et  donne le score.
 
 # Notation
- - 2pt  de rendu par séance
- - 12 pt de Questions ouvertes lors du dernier tp  (1H dernière seance)
+ - 3pt de rendu par séance
+ - 12 pt de Questions ouvertes lors du dernier tp (40min dernière seance)
 
 > [!WARNING]
 > Noubliez pas de faire votre pullRequest en fin de td/tp
