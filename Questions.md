@@ -58,16 +58,17 @@ Réponse:  RSS = 176508 kB   soit ≈ 176,5 MB
 Réponse: Le temps de démarrage indiqué dans les logs est : 2.94 secondes
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
-Réponse:
+Réponse:662 octets (0.6 KB)
 
 # Q8 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode JVM (Préciser l'unité)?
-Réponse:
+Réponse:107 196 kB ( 107 MB)
 
 # Q9 : Quel est le temps de démarrage l'api Quarkus en mode JVM ?
-Réponse:
+Réponse: 1.090 secondes
 
 # Q10 : Quelle est la valeur de la RSS utilisée par l'api quarkus en mode natif (Préciser l'unité)?
-Réponse:
+Réponse: RSS = 40192 kB = 40 MB
+
 
 # Q11 : Quel est le temps de démarrage l'api Quarkus en mode natif ?
-Réponse:
+Réponse: started in 0.016s
