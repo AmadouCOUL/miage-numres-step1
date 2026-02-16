@@ -45,16 +45,17 @@ Configuration .gitpod.yml parfois complexe pour les projets avancés.
 
 
 # Q3 : Quelle est la taille du fichier jar `api-springboot-0.0.1-SNAPSHOT.jar` ?
-Réponse:
+Réponse: 20 Mo
 
 # Q4 : Qu'est ce que  la RSS ?
-Réponse:
+Réponse: La RSS (Resident Set Size) représente la mémoire physique réellement utilisée par un processus dans la RAM.
+Elle correspond aux pages effectivement chargées en mémoire, sans inclure la swap.
 
 # Q5 : Quelle est la valeur de la RSS utilisée par l'api SpringBoot (Préciser l'unité)?
-Réponse:
+Réponse:  RSS = 176508 kB   soit ≈ 176,5 MB
 
 # Q6 : Quel est le temps de démarrage l'api SpringBoot ?
-Réponse:
+Réponse: Le temps de démarrage indiqué dans les logs est : 2.94 secondes
 
 # Q7 : Quelle est la taille du fichier jar `quarkus-run.jar` ?
 Réponse:
